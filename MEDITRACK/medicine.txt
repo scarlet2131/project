@@ -1,0 +1,13 @@
+('Vicodin','Pain management'),
+('Synthroid','Thyroid'),
+('Delasone','cancer'),
+('Amoxil','Bacterial infections'),
+('Neurontin','nerve pain'),
+('Prinivil','Blood pressure'),
+('Lipitor','High cholesterol'),
+('Glucophage','diabetes'),
+('Zofran','Nausea'),
+('Motrin','Fever'),
+('pcm','fever'),
+('syrup','throat related'),
+('cough','throat related');
